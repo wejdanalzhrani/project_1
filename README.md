@@ -38,3 +38,4 @@ I would have additional data like day, month and time of traffic accidents to se
 # my blog link 
 https://medium.com/@wejdanalzhrani888/analysis-of-traffic-accidents-and-driving-licenses-in-saudi-arabia-using-pandas-matplotlib-and-f18e2945a78b?source=friends_link&sk=f925fb6e3e1f76512a7115da605af788
 
+# project-1
